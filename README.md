@@ -66,9 +66,7 @@ $ git clone https://github.com/kaanarslan1990/flight_App.git
 
 ## Contact
 
+- GitHub [@kaanarslan1990](https://{github.com/kaanarslan1990})
 
-- GitHub [@kaanarslan1990]({https://github.com/kaanrslan1990})
-
-- Linkedin [@arslan-oguzkaan]({https://www.linkedin.com/in/arslan-oguzkaan/})
-
+- Linkedin [@arslan-oguzkaan](https://{linkedin.com/arslan-oguzkaan})
 
